@@ -15,7 +15,7 @@ Navigate to the project directory.
 
 Run the program:
 ~~~
-caesar_cipher.py.
+main.py.
 ~~~
 
 # How to Use
